@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhijeet Shandilya</h1>
 <h3 align="center">A passionate python developer and a 3d & 2d animator from India.</h3>
-img align="right" alt="Coding" width="400" src="img align="right" alt="Coding" width="400" src="https://149695847.v2.pressablecdn.com/wp-content/uploads/2019/02/Digital-Marketing-Write-For-Us.gif"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhjeet1104&label=Profile%20views&color=0e75b6&style=flat" alt="abhjeet1104" /> </p>
 
