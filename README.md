@@ -1,9 +1,9 @@
-### Hi 👋 Nice to meet you all people
+### Hi 👋guy,s  You are viewing 🫣 Abhijeet shandilya git account.
 
 
 
 
-<h1 align="center">Hi 👋, Myself Abhijeet Shandilya</h1>
+<h1 align="center"> Hi 👋 Nice to meet you all people</h1>
 <h3 align="center">A passionate python developer and a 3d & 2d animator from India.</h3>
 
 
