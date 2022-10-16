@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi 👋 Nice to meet you all people
 
 
 
 
-<h1 align="center">Hi 👋, I'm Abhijeet Shandilya</h1>
+<h1 align="center">Hi 👋, Myself Abhijeet Shandilya</h1>
 <h3 align="center">A passionate python developer and a 3d & 2d animator from India.</h3>
 
 
