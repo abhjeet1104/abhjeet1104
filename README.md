@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center"> Hi 👋guy,s  This is  Abhijeet shandilya github account.</h1>
+<h1 align="center"> Hi 👋there  This is  Abhijeet shandilya  account.</h1>
 <h3 align="center">A passionate python developer and a 3d & 2d animator from India.</h3>
 
 
