@@ -1,9 +1,9 @@
-### Hi 👋Guy`s 🫣 Nice to See You on my profifle😊
+## Hi 👋Guy`s 🫣 Nice to See You on my profifle😊
 
 
 
 
-<h1 align="center"> Hi 👋guy,s  You are viewing 🫣 Abhijeet shandilya github account.</h1>
+<h1 align="center"> Hi 👋guy,s  This is  Abhijeet shandilya github account.</h1>
 <h3 align="center">A passionate python developer and a 3d & 2d animator from India.</h3>
 
 
