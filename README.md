@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahijeet shandilya</h1>
+<h1 align="center">Hi 👋, I'm Abhijeet shandilya</h1>
 <h3 align="center">A passionate python developer and a 3d & 2d animator from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhjeet1104&label=Profile%20views&color=0e75b6&style=flat" alt="abhjeet1104" /> </p>
@@ -18,7 +18,11 @@
 - 📫 How to reach me **abhijeetsinghoberoi1104@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/posts/abhijeet1104_finally-another-achievement-in-phython-activity-6844578627703619584-4Gpw?utm_source=share&utm_medium=member_desktop
-https://www.linkedin.com/posts/abhijeet1104_machinelearning-internship-internshala-activity-6827313079940907008-S57I?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/abhijeet1104_finally-another-achievement-in-phython-activity-6844578627703619584-4Gpw?utm_source=share&utm_medium=member_desktop 
+
+https://www.linkedin.com/posts/abhijeet1104_machinelearning-internship-internshala-activity-6827313079940907008-S57I?utm_source=share&utm_medium=member_desktop]
+
+(https://www.linkedin.com/posts/abhijeet1104_finally-another-achievement-in-phython-activity-6844578627703619584-4Gpw?utm_source=share&utm_medium=member_desktop 
+
 https://www.linkedin.com/posts/abhijeet1104_machinelearning-internship-internshala-activity-6827313079940907008-S57I?utm_source=share&utm_medium=member_desktop)
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
