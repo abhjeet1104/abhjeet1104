@@ -19,9 +19,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/posts/abhijeet1104_finally-another-achievement-in-phython-activity-6844578627703619584-4Gpw?utm_source=share&utm_medium=member_desktop
 
-https://www.linkedin.com/posts/abhijeet1104_machinelearning-internship-internshala-activity-6827313079940907008-S57I?utm_source=share&utm_medium=member_desktop]
-
-(https://www.linkedin.com/posts/abhijeet1104_finally-another-achievement-in-phython-activity-6844578627703619584-4Gpw?utm_source=share&utm_medium=member_desktop 
 
 https://www.linkedin.com/posts/abhijeet1104_machinelearning-internship-internshala-activity-6827313079940907008-S57I?utm_source=share&utm_medium=member_desktop)
 
