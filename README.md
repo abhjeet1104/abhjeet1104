@@ -25,7 +25,7 @@ https://www.linkedin.com/posts/abhijeet1104_machinelearning-internship-internsha
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 - ⚡ Fun fact **I think I am funny 🫣what u all guy`s think**
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
