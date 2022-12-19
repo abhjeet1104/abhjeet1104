@@ -22,6 +22,7 @@
 
 
 https://www.linkedin.com/posts/abhijeet1104_machinelearning-internship-internshala-activity-6827313079940907008-S57I?utm_source=share&utm_medium=member_desktop)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
