@@ -28,8 +28,4 @@ https://www.linkedin.com/posts/abhijeet1104_machinelearning-internship-internsha
 - ⚡ Fun fact **I think I am funny 🫣what u all guy`s think**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhjeet1104&show_icons=true&locale=en&layout=compact" alt="abhjeet1104" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhjeet1104&show_icons=true&locale=en" alt="abhjeet1104" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhjeet1104&" alt="abhjeet1104" /></p>
