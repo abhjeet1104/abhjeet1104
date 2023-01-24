@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, Guy`s welcome to my profile</h1>
 <h3 align="center">A passionate python developer and a 3d & 2d animator from India.</h3>
-
+[![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhjeet1104)](https://github.com/abhjeet1104/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhjeet1104&label=Profile%20views&color=0e75b6&style=flat" alt="abhjeet1104" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhjeet1104" alt="abhjeet1104" /></a> </p>
