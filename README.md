@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/abhijeet1104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhijeet1104" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/itzabhijeet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/itzabhijeet" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/devloper_animator/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[https://www.instagram.com/devloper_animator/](https://www.instagram.com/animator_abhijeet/)" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/devloper_animator/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/python_memes23/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uck4qvddtem9o7achq9ykbpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uck4qvddtem9o7achq9ykbpa" height="30" width="40" /></a>
 </p>
 
