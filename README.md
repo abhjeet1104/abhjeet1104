@@ -5,21 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhjeet1104" alt="abhjeet1104" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Jr. Data sciencist.& Ui/Ux or Animation](https://github.com/abhjeet1104/movie-project-live)
-
-- 🌱 I’m currently learning **Python, DL, ML, NLP & DV.**
-
-- 👯 I’m looking to collaborate on [Data scientist & Animation](https://github.com/abhjeet1104/all-project-work)
-
-- 🤝 I’m looking for help with **Ineuron**
-
-- 💬 Ask me about anything in **python & animation.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/abhijeet1104/**
 
-- ⚡ Fun fact **I think I am funny 🫣what u all guy`s think**
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
