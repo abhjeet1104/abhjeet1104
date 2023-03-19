@@ -1,9 +1,13 @@
+
 <p align="center">
  <h2 align="center">GitHub Readme Stats</h2>
  
 <h1 align="center">Hi 👋, Guy`s Welcome To My Profile.</h1>
 
 <h3 align="center">A passionate python developer and a 3d & 2d animator.</h3>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=abhjeet1104&label=Profile%20Views&pretty=false" />
+</a>
 
 # 💫 About Me:
 🔭 I’m currently working on Jr. Data scientist.& Ui/Ux or Animation<br>👯 I’m looking to collaborate  on Data scientist & Animation<br>🤝 I’m looking for help with Data Scientist and Animator<br>🌱 I’m currently learning Python, DL, ML, NLP & DV.<br>💬 Ask me about python else Animation<br>⚡ Fun fact
@@ -25,7 +29,3 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=abhjeet1104&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
