@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, Guy`s Welcome To My Profile.</h1>
 <h3 align="center">A passionate python developer and a 3d & 2d animator.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhjeet1104&label=Profile%20views&color=0e75b6&style=flat" alt="abhjeet1104" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhjeet1104" alt="abhjeet1104" /></a> </p>
-
-
 - 📫 How to reach me **https://www.linkedin.com/in/abhijeet1104/**
 
 
