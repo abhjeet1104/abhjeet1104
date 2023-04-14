@@ -3,6 +3,11 @@
 <p align="center">
  <h2 align="center">GitHub Readme Stats</h2>
  
+ 
+ <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="abhijeet1104" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/abhijeet1104?trk=profile-badge">Abhijeet shandilya</a></div>
+              
+ 
 <h1 align="center">Hi 👋, Guy`s Welcome To My Profile.</h1>
 
 <h3 align="center">A passionate python developer and a 3d & 2d animator.</h3>
