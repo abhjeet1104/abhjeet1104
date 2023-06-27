@@ -15,6 +15,8 @@
   <img src="https://visitcount.itsvg.in/api?id=abhjeet1104&label=Profile%20Views&pretty=false" />
 </a>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 # 💫 About Me: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="abhijeet1104" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/abhijeet1104?trk=profile-badge">Abhijeet shandilya</a></div>
 🔭 I’m currently working on Jr. Data scientist.& Ui/Ux or Animation<br>👯 I’m looking to collaborate  on Data scientist & Animation<br>🤝 I’m looking for help with Data Scientist and Animator<br>🌱 I’m currently learning Python, DL, ML, NLP & DV.<br>💬 Ask me about python else Animation<br>⚡ Fun fact
 
